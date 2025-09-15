@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#main-content {
+	width: 150px;
+	height: 150px;
+	background-color: black;
+}
+/* style the paragraph with class hello-accio*/
+.hello-accio{
+	color: white;
+	text-align: center;
+}
